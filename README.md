@@ -8,7 +8,7 @@ I've been coding since middle school. I specialise in C++, Python, Java, Data Sc
 
 * 🌍  I'm based in Warsaw
 * ✉️  You can contact me at [danielszepi@gmail.com](mailto:danielszepi@gmail.com)
-* 🧠  I'm learning Solidity
+* 🧠  I'm learning Go
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
