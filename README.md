@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===========================================================================================================================================
 
-Control Engineering student
+Python developer
 ---------------------------
 
-I've been coding since middle school. I specialise in C++, Python, Java, Data Science and Robotics (ROS). I'm a keen learner and a team player. I'm studying Control Engineering at Warsaw Univeristy of Technology.
+I've been coding since middle school. I specialise in C++, Python, Java, Data Science and Robotics (ROS). I'm a keen learner and a team player. I'm finished Control Engineering at Warsaw Univeristy of Technology.
 
 * 🌍  I'm based in Warsaw
 * ✉️  You can contact me at [danielszepi@gmail.com](mailto:danielszepi@gmail.com)
